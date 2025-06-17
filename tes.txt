@@ -1,0 +1,4 @@
+Andi Rahmatullah
+git config --global user.name "Andi Rahmatullah"
+
+git config --global user.email "rahmatullahandi46@gmail.com"
